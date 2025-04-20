@@ -37,7 +37,7 @@ AutoDub Pro is a powerful automated video dubbing solution that transforms your 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/autodub-pro.git
+   git clone https://github.com/ashmita41/autodub-pro.git
    cd autodub-pro
    ```
 
